@@ -1,34 +1,29 @@
-[![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
+# Software Carpentries: Python
+## University of the Sunshine Coast
+### Instructors: Deb Kelsey and In Cognito
 
-# The Carpentries Workshop Template
 
-This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
-[Library Carpentry][lc-site]'s) template for creating websites for workshops.
+# General Information
+General Information
+Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including program design, version control, data management, and task automation. Participants will be encouraged to work collaboritively and to apply what they have learned to their own research problems.
 
-1. **Please _do not fork this repository directly on GitHub._** Instead, please use GitHub's
-   "template" function following [the instructions below](#creating-a-repository) to copy this
-   `workshop-template` repository and customize it for your workshop.
+For more information on what we teach and why, please see our paper "Best Practices for Scientific Computing".
 
-2. Please *do your work in your repository's `gh-pages` branch*, since that is what is
-   [automatically published as a website by GitHub][github-project-pages].
+Who: The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
 
-3. Once you are done, please also [let us know][email] the workshop URL. If this is a self-organised
-   workshop, you should also [fill in the self-organized workshop
-   form][self-organized-workshop-form] (if you have not already done so), so we can keep track of
-   all workshops. We build the list of workshops on our websites from the data included in your
-   `index.md` page. We can only do that if you [customize][customization] that page correctly *and*
-   let us know the workshop URL.
+Where: This training will take place online. The instructors will provide you with the information you will need to connect to this meeting.
 
-If you run into problems,
-or have ideas about how to make this process simpler,
-please [get in touch](#getting-and-giving-help).
-The pages on [customizing your website][customization],
-the [FAQ][faq],
-and the [design notes][design] have more detail on what we do and why.
-And please note:
-if you are teaching Git,
-please [create a separate repository](#setting-up-a-separate-repository-for-learners)
-for your learners to practice in.
+When: May 15, 2021. Add to your Google Calendar.
+
+Requirements: Participants must have a laptop or desktop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below).
+
+Accessibility: We are dedicated to providing a positive and accessible learning environment for all. Please notify the instructors in advance of the workshop if you require any accommodations or if there is anything we can do to make this workshop more accessible to you.
+
+Contact: Please email dkelsey@usc.edu.au or incognito@myotheruni.edu.au for more information.
+
+Roles: To learn more about the roles at the workshop (who will be doing what), refer to our Workshop FAQ.
+
+Registration:
 
 ## Creating a Repository
 
@@ -42,6 +37,7 @@ for your learners to practice in.
     ![the 'use this template' button on GitHub](fig/select-github-use-template.png?raw=true)
 
 3.  Select the owner for your new repository.
+
     (This will probably be you, but may instead be an organization you belong to.)
 
 4.  Choose a name for your workshop website repository.
