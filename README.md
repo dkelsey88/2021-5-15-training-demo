@@ -34,3 +34,14 @@ Post-Survey
 
 # Schedule
 
+
+# Syllabus
+- Programming in Python
+- Using Libraries
+- Working with Arrays
+- Reading and Plotting Data
+- Creating and Using Functions
+- Loops and Conditionals
+- Defensive Programming
+- Using Python from the Command Line
+Reference https://swcarpentry.github.io/python-novice-inflammation/reference/ 
